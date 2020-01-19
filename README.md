@@ -39,7 +39,7 @@ The Xcode version shown in the video was outdated, so I had to figure some featu
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Tommy Kim]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
